@@ -13,7 +13,7 @@ LiveSplit autosplitter for Sonic the Hedgehog 2 (Sega Mega Drive / Genesis).
 
 ## How to use
 
-1. Download Sonic1.asl
+1. Download Sonic2.asl
 2. Open LiveSplit
 3. Edit layout...
 4. Add Scriptable Auto Splitter
