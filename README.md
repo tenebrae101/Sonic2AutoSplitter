@@ -1,6 +1,6 @@
 # Sonic2AutoSplitter
 
-STILL IN BETA
+STILL BETA
 
 LiveSplit autosplitter for Sonic the Hedgehog 2 (Sega Mega Drive / Genesis).
 
